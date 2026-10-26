@@ -1,5 +1,4 @@
 # my-first-repository
-text My first Github repository for Itroduction to Computng
 
 **Name:**
 
