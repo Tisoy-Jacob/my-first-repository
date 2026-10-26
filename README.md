@@ -1,6 +1,6 @@
 # my-first-repository
 
-**Name:**
+**Name:** Jacob Tisoy
 
 **Courser:** Introduction to Computing
 
